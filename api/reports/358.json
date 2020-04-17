@@ -1,0 +1,21 @@
+{
+  "data": {
+    "type": "reports",
+    "id": "358",
+    "attributes": {
+      "date": "2020-04-03T10:00:00-04:00",
+      "cases": 563
+    },
+    "relationships": {
+      "county": {
+        "links": {
+          "related": "http://localhost:4200/api/counties/16.json"
+        },
+        "data": {
+          "type": "counties",
+          "id": "16"
+        }
+      }
+    }
+  }
+}

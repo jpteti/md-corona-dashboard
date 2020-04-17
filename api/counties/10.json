@@ -1,0 +1,72 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "10",
+    "attributes": {
+      "name": "Dorchester",
+      "population": 32551,
+      "current-cases": 12
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://localhost:4200/api/counties/10/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 304
+          },
+          {
+            "type": "reports",
+            "id": 328
+          },
+          {
+            "type": "reports",
+            "id": 352
+          },
+          {
+            "type": "reports",
+            "id": 376
+          },
+          {
+            "type": "reports",
+            "id": 400
+          },
+          {
+            "type": "reports",
+            "id": 424
+          },
+          {
+            "type": "reports",
+            "id": 448
+          },
+          {
+            "type": "reports",
+            "id": 472
+          },
+          {
+            "type": "reports",
+            "id": 496
+          },
+          {
+            "type": "reports",
+            "id": 520
+          },
+          {
+            "type": "reports",
+            "id": 544
+          },
+          {
+            "type": "reports",
+            "id": 568
+          },
+          {
+            "type": "reports",
+            "id": 592
+          }
+        ]
+      }
+    }
+  }
+}
